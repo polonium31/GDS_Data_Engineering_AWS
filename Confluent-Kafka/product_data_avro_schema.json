@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "category",
+      "type": "string"
+    },
+    {
+      "name": "price",
+      "type": "float"
+    },
+    {
+      "name": "last_updated",
+      "type": "string"
+    }
+  ],
+  "name": "ProductData",
+  "namespace": "com.kaggle.productdata",
+  "type": "record"
+}

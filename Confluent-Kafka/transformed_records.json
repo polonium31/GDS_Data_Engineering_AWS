@@ -1,0 +1,125 @@
+{"id": 9, "name": "UltraTab 9", "category": "BOOKS", "price": 85.8499984741211, "last_updated": "2026-02-06T14:37:26"}
+{"id": 11, "name": "ProHeads 11", "category": "FITNESS", "price": 209.74000549316406, "last_updated": "2026-02-06T14:37:30"}
+{"id": 25, "name": "ZenChair 25", "category": "FITNESS", "price": 191.72999572753906, "last_updated": "2026-02-06T14:38:04"}
+{"id": 30, "name": "SmartLight 30", "category": "BOOKS", "price": 139.11000061035156, "last_updated": "2026-02-06T14:40:07"}
+{"id": 6, "name": "ProHeads 6", "category": "ELECTRONICS", "price": 130.88, "last_updated": "2026-02-06T14:37:16"}
+{"id": 29, "name": "ProHeads 29", "category": "HOME DECOR", "price": 381.32000732421875, "last_updated": "2026-02-06T14:40:05"}
+{"id": 37, "name": "EcoBottle 37", "category": "ELECTRONICS", "price": 338.04, "last_updated": "2026-02-06T14:40:21"}
+{"id": 2, "name": "ZenChair 2", "category": "HOME DECOR", "price": 461.6199951171875, "last_updated": "2026-02-06T14:37:14"}
+{"id": 13, "name": "ProHeads 13", "category": "BOOKS", "price": 156.27000427246094, "last_updated": "2026-02-06T14:37:50"}
+{"id": 24, "name": "UltraTab 24", "category": "BOOKS", "price": 338.8900146484375, "last_updated": "2026-02-06T14:38:02"}
+{"id": 26, "name": "ProHeads 26", "category": "APPAREL", "price": 148.10000610351562, "last_updated": "2026-02-06T14:38:06"}
+{"id": 33, "name": "EcoBottle 33", "category": "ELECTRONICS", "price": 351.64, "last_updated": "2026-02-06T14:40:13"}
+{"id": 16, "name": "EcoBottle 16", "category": "BOOKS", "price": 282.7200012207031, "last_updated": "2026-02-06T14:37:42"}
+{"id": 12, "name": "ProHeads 12", "category": "ELECTRONICS", "price": 444.55, "last_updated": "2026-02-06T14:37:32"}
+{"id": 31, "name": "ProHeads 31", "category": "FITNESS", "price": 100.8499984741211, "last_updated": "2026-02-06T14:40:09"}
+{"id": 14, "name": "SmartLight 14", "category": "APPAREL", "price": 293.6600036621094, "last_updated": "2026-02-06T14:37:36"}
+{"id": 17, "name": "SmartLight 17", "category": "BOOKS", "price": 263.30999755859375, "last_updated": "2026-02-06T14:37:48"}
+{"id": 20, "name": "SmartLight 20", "category": "HOME DECOR", "price": 329.32000732421875, "last_updated": "2026-02-06T14:37:54"}
+{"id": 21, "name": "EcoBottle 21", "category": "ELECTRONICS", "price": 259.26, "last_updated": "2026-02-06T14:37:56"}
+{"id": 34, "name": "EcoBottle 34", "category": "FITNESS", "price": 492.7300109863281, "last_updated": "2026-02-06T14:40:15"}
+{"id": 36, "name": "ZenChair 36", "category": "APPAREL", "price": 426.20001220703125, "last_updated": "2026-02-06T14:40:19"}
+{"id": 1, "name": "ProHeads 1", "category": "ELECTRONICS", "price": 325.13, "last_updated": "2026-02-06T14:37:02"}
+{"id": 18, "name": "SmartLight 18", "category": "ELECTRONICS", "price": 18.78, "last_updated": "2026-02-06T14:37:46"}
+{"id": 32, "name": "SmartLight 32", "category": "HOME DECOR", "price": 53.68000030517578, "last_updated": "2026-02-06T14:40:11"}
+{"id": 3, "name": "ProHeads 3", "category": "APPAREL", "price": 380.1099853515625, "last_updated": "2026-02-06T14:37:06"}
+{"id": 7, "name": "EcoBottle 7", "category": "HOME DECOR", "price": 114.63999938964844, "last_updated": "2026-02-06T14:37:22"}
+{"id": 8, "name": "UltraTab 8", "category": "FITNESS", "price": 145.91000366210938, "last_updated": "2026-02-06T14:37:24"}
+{"id": 5, "name": "EcoBottle 5", "category": "FITNESS", "price": 208.13999938964844, "last_updated": "2026-02-06T14:37:38"}
+{"id": 4, "name": "UltraTab 4", "category": "BOOKS", "price": 412.5400085449219, "last_updated": "2026-02-06T14:37:10"}
+{"id": 10, "name": "ProHeads 10", "category": "FITNESS", "price": 389.1400146484375, "last_updated": "2026-02-06T14:37:28"}
+{"id": 15, "name": "SmartLight 15", "category": "HOME DECOR", "price": 464.55999755859375, "last_updated": "2026-02-06T14:37:40"}
+{"id": 23, "name": "EcoBottle 23", "category": "ELECTRONICS", "price": 285.33, "last_updated": "2026-02-06T14:38:00"}
+{"id": 19, "name": "EcoBottle 19", "category": "HOME DECOR", "price": 491.4800109863281, "last_updated": "2026-02-06T14:37:52"}
+{"id": 22, "name": "ZenChair 22", "category": "FITNESS", "price": 309.260009765625, "last_updated": "2026-02-06T14:37:58"}
+{"id": 27, "name": "ZenChair 27", "category": "BOOKS", "price": 489.67999267578125, "last_updated": "2026-02-06T14:40:01"}
+{"id": 28, "name": "ProHeads 28", "category": "BOOKS", "price": 295.6400146484375, "last_updated": "2026-02-06T14:40:03"}
+{"id": 35, "name": "ZenChair 35", "category": "APPAREL", "price": 169.4499969482422, "last_updated": "2026-02-06T14:40:17"}
+{"id": 18, "name": "SmartLight 18", "category": "ELECTRONICS", "price": 375.76, "last_updated": "2026-02-06T14:40:23"}
+{"id": 38, "name": "UltraTab 38", "category": "FITNESS", "price": 144.85000610351562, "last_updated": "2026-02-06T14:40:25"}
+{"id": 39, "name": "UltraTab 39", "category": "BOOKS", "price": 135.7899932861328, "last_updated": "2026-02-06T14:40:27"}
+{"id": 40, "name": "ProHeads 40", "category": "FITNESS", "price": 364.3999938964844, "last_updated": "2026-02-06T14:40:29"}
+{"id": 15, "name": "SmartLight 15", "category": "HOME DECOR", "price": 230.11000061035156, "last_updated": "2026-02-06T14:40:31"}
+{"id": 41, "name": "ProHeads 41", "category": "HOME DECOR", "price": 433.3699951171875, "last_updated": "2026-02-06T14:40:33"}
+{"id": 42, "name": "ZenChair 42", "category": "FITNESS", "price": 452.67999267578125, "last_updated": "2026-02-06T14:40:35"}
+{"id": 43, "name": "UltraTab 43", "category": "BOOKS", "price": 307.4599914550781, "last_updated": "2026-02-06T14:40:37"}
+{"id": 44, "name": "SmartLight 44", "category": "APPAREL", "price": 229.60000610351562, "last_updated": "2026-02-06T14:40:39"}
+{"id": 45, "name": "ZenChair 45", "category": "ELECTRONICS", "price": 386.94, "last_updated": "2026-02-06T14:40:41"}
+{"id": 46, "name": "ProHeads 46", "category": "APPAREL", "price": 369.0899963378906, "last_updated": "2026-02-06T14:40:43"}
+{"id": 47, "name": "ZenChair 47", "category": "BOOKS", "price": 11.630000114440918, "last_updated": "2026-02-06T14:40:45"}
+{"id": 48, "name": "SmartLight 48", "category": "BOOKS", "price": 426.79998779296875, "last_updated": "2026-02-06T14:40:47"}
+{"id": 49, "name": "EcoBottle 49", "category": "HOME DECOR", "price": 199.8699951171875, "last_updated": "2026-02-06T14:40:49"}
+{"id": 50, "name": "ZenChair 50", "category": "HOME DECOR", "price": 320.4599914550781, "last_updated": "2026-02-06T14:40:51"}
+{"id": 11, "name": "ProHeads 11", "category": "FITNESS", "price": 112.04000091552734, "last_updated": "2026-02-06T14:40:53"}
+{"id": 1, "name": "ProHeads 1", "category": "ELECTRONICS", "price": 339.77, "last_updated": "2026-02-06T14:40:55"}
+{"id": 32, "name": "SmartLight 32", "category": "HOME DECOR", "price": 211.61000061035156, "last_updated": "2026-02-06T14:40:57"}
+{"id": 51, "name": "ZenChair 51", "category": "APPAREL", "price": 391.32000732421875, "last_updated": "2026-02-06T14:40:59"}
+{"id": 52, "name": "ProHeads 52", "category": "FITNESS", "price": 72.79000091552734, "last_updated": "2026-02-06T14:41:01"}
+{"id": 53, "name": "UltraTab 53", "category": "APPAREL", "price": 452.3699951171875, "last_updated": "2026-02-06T14:41:03"}
+{"id": 54, "name": "ZenChair 54", "category": "APPAREL", "price": 140.67999267578125, "last_updated": "2026-02-06T14:41:05"}
+{"id": 55, "name": "SmartLight 55", "category": "BOOKS", "price": 145.44000244140625, "last_updated": "2026-02-06T14:41:07"}
+{"id": 56, "name": "EcoBottle 56", "category": "ELECTRONICS", "price": 199.7, "last_updated": "2026-02-06T14:41:09"}
+{"id": 38, "name": "UltraTab 38", "category": "FITNESS", "price": 236.64999389648438, "last_updated": "2026-02-06T14:41:11"}
+{"id": 15, "name": "SmartLight 15", "category": "HOME DECOR", "price": 185.5800018310547, "last_updated": "2026-02-06T14:41:13"}
+{"id": 57, "name": "ProHeads 57", "category": "APPAREL", "price": 424.5299987792969, "last_updated": "2026-02-06T14:41:15"}
+{"id": 51, "name": "ZenChair 51", "category": "APPAREL", "price": 33.15999984741211, "last_updated": "2026-02-06T14:41:17"}
+{"id": 58, "name": "UltraTab 58", "category": "APPAREL", "price": 24.200000762939453, "last_updated": "2026-02-06T14:41:19"}
+{"id": 59, "name": "ZenChair 59", "category": "ELECTRONICS", "price": 360.54, "last_updated": "2026-02-06T14:41:21"}
+{"id": 60, "name": "ZenChair 60", "category": "FITNESS", "price": 284.3699951171875, "last_updated": "2026-02-06T14:41:23"}
+{"id": 34, "name": "EcoBottle 34", "category": "FITNESS", "price": 241.8300018310547, "last_updated": "2026-02-06T14:41:25"}
+{"id": 61, "name": "SmartLight 61", "category": "HOME DECOR", "price": 217.17999267578125, "last_updated": "2026-02-06T14:41:27"}
+{"id": 62, "name": "ZenChair 62", "category": "APPAREL", "price": 310.75, "last_updated": "2026-02-06T14:41:29"}
+{"id": 63, "name": "SmartLight 63", "category": "BOOKS", "price": 403.70001220703125, "last_updated": "2026-02-06T14:41:31"}
+{"id": 64, "name": "SmartLight 64", "category": "FITNESS", "price": 464.489990234375, "last_updated": "2026-02-06T14:41:33"}
+{"id": 43, "name": "UltraTab 43", "category": "BOOKS", "price": 97.41000366210938, "last_updated": "2026-02-06T14:41:35"}
+{"id": 65, "name": "EcoBottle 65", "category": "FITNESS", "price": 234.6999969482422, "last_updated": "2026-02-06T14:41:37"}
+{"id": 66, "name": "ZenChair 66", "category": "APPAREL", "price": 216.67999267578125, "last_updated": "2026-02-06T14:41:39"}
+{"id": 67, "name": "ProHeads 67", "category": "HOME DECOR", "price": 186.05999755859375, "last_updated": "2026-02-06T14:41:41"}
+{"id": 68, "name": "SmartLight 68", "category": "APPAREL", "price": 102.36000061035156, "last_updated": "2026-02-06T14:41:43"}
+{"id": 69, "name": "SmartLight 69", "category": "ELECTRONICS", "price": 104.9, "last_updated": "2026-02-06T14:41:45"}
+{"id": 70, "name": "ZenChair 70", "category": "HOME DECOR", "price": 378.0400085449219, "last_updated": "2026-02-06T14:41:47"}
+{"id": 71, "name": "ProHeads 71", "category": "ELECTRONICS", "price": 333.62, "last_updated": "2026-02-06T14:41:49"}
+{"id": 72, "name": "SmartLight 72", "category": "HOME DECOR", "price": 166.44000244140625, "last_updated": "2026-02-06T14:41:51"}
+{"id": 73, "name": "SmartLight 73", "category": "BOOKS", "price": 248.52999877929688, "last_updated": "2026-02-06T14:41:53"}
+{"id": 74, "name": "SmartLight 74", "category": "BOOKS", "price": 102.83000183105469, "last_updated": "2026-02-06T14:41:55"}
+{"id": 75, "name": "ProHeads 75", "category": "ELECTRONICS", "price": 52.24, "last_updated": "2026-02-06T14:41:57"}
+{"id": 76, "name": "UltraTab 76", "category": "APPAREL", "price": 369.2900085449219, "last_updated": "2026-02-06T14:41:59"}
+{"id": 77, "name": "ProHeads 77", "category": "HOME DECOR", "price": 352.9700012207031, "last_updated": "2026-02-06T14:42:01"}
+{"id": 78, "name": "ProHeads 78", "category": "HOME DECOR", "price": 114.12999725341797, "last_updated": "2026-02-06T14:42:03"}
+{"id": 6, "name": "ProHeads 6", "category": "ELECTRONICS", "price": 325.11, "last_updated": "2026-02-06T14:42:05"}
+{"id": 79, "name": "ZenChair 79", "category": "ELECTRONICS", "price": 315.49, "last_updated": "2026-02-06T14:42:07"}
+{"id": 80, "name": "ProHeads 80", "category": "FITNESS", "price": 173.30999755859375, "last_updated": "2026-02-06T14:42:09"}
+{"id": 81, "name": "UltraTab 81", "category": "FITNESS", "price": 412.3900146484375, "last_updated": "2026-02-06T14:42:11"}
+{"id": 82, "name": "ProHeads 82", "category": "ELECTRONICS", "price": 21.4, "last_updated": "2026-02-06T14:42:13"}
+{"id": 83, "name": "SmartLight 83", "category": "BOOKS", "price": 19.860000610351562, "last_updated": "2026-02-06T14:42:15"}
+{"id": 84, "name": "UltraTab 84", "category": "APPAREL", "price": 457.3299865722656, "last_updated": "2026-02-06T14:42:17"}
+{"id": 78, "name": "ProHeads 78", "category": "HOME DECOR", "price": 233.97000122070312, "last_updated": "2026-02-06T14:42:19"}
+{"id": 67, "name": "ProHeads 67", "category": "HOME DECOR", "price": 306.80999755859375, "last_updated": "2026-02-06T14:42:21"}
+{"id": 60, "name": "ZenChair 60", "category": "FITNESS", "price": 170.10000610351562, "last_updated": "2026-02-06T14:42:23"}
+{"id": 85, "name": "ZenChair 85", "category": "ELECTRONICS", "price": 190.24, "last_updated": "2026-02-06T14:42:25"}
+{"id": 86, "name": "SmartLight 86", "category": "FITNESS", "price": 478.0799865722656, "last_updated": "2026-02-06T14:42:27"}
+{"id": 87, "name": "ProHeads 87", "category": "HOME DECOR", "price": 422.8999938964844, "last_updated": "2026-02-06T14:42:29"}
+{"id": 88, "name": "EcoBottle 88", "category": "APPAREL", "price": 262.5299987792969, "last_updated": "2026-02-06T14:42:31"}
+{"id": 89, "name": "ProHeads 89", "category": "ELECTRONICS", "price": 136.6, "last_updated": "2026-02-06T14:42:33"}
+{"id": 90, "name": "UltraTab 90", "category": "FITNESS", "price": 491.8900146484375, "last_updated": "2026-02-06T14:42:35"}
+{"id": 91, "name": "UltraTab 91", "category": "FITNESS", "price": 142.8300018310547, "last_updated": "2026-02-06T14:42:37"}
+{"id": 92, "name": "UltraTab 92", "category": "HOME DECOR", "price": 232.8000030517578, "last_updated": "2026-02-06T14:42:39"}
+{"id": 93, "name": "ZenChair 93", "category": "HOME DECOR", "price": 271.45001220703125, "last_updated": "2026-02-06T14:42:41"}
+{"id": 94, "name": "EcoBottle 94", "category": "APPAREL", "price": 379.1099853515625, "last_updated": "2026-02-06T14:42:43"}
+{"id": 95, "name": "SmartLight 95", "category": "HOME DECOR", "price": 128.6699981689453, "last_updated": "2026-02-06T14:42:45"}
+{"id": 96, "name": "ProHeads 96", "category": "BOOKS", "price": 313.1600036621094, "last_updated": "2026-02-06T14:42:47"}
+{"id": 97, "name": "UltraTab 97", "category": "FITNESS", "price": 106.31999969482422, "last_updated": "2026-02-06T14:42:49"}
+{"id": 98, "name": "UltraTab 98", "category": "BOOKS", "price": 120.12000274658203, "last_updated": "2026-02-06T14:42:51"}
+{"id": 99, "name": "SmartLight 99", "category": "BOOKS", "price": 376.510009765625, "last_updated": "2026-02-06T14:42:53"}
+{"id": 100, "name": "ProHeads 100", "category": "BOOKS", "price": 321.6099853515625, "last_updated": "2026-02-06T14:42:55"}
+{"id": 101, "name": "ProHeads 101", "category": "FITNESS", "price": 122.02999877929688, "last_updated": "2026-02-06T14:42:57"}
+{"id": 50, "name": "ZenChair 50", "category": "HOME DECOR", "price": 228.3300018310547, "last_updated": "2026-02-06T14:42:59"}
+{"id": 102, "name": "UltraTab 102", "category": "BOOKS", "price": 187.8699951171875, "last_updated": "2026-02-06T14:43:01"}
+{"id": 103, "name": "SmartLight 103", "category": "ELECTRONICS", "price": 321.35, "last_updated": "2026-02-06T14:43:03"}
+{"id": 104, "name": "EcoBottle 104", "category": "BOOKS", "price": 114.16000366210938, "last_updated": "2026-02-06T14:43:05"}
+{"id": 105, "name": "EcoBottle 105", "category": "HOME DECOR", "price": 40.220001220703125, "last_updated": "2026-02-06T14:43:07"}
+{"id": 106, "name": "EcoBottle 106", "category": "ELECTRONICS", "price": 290.41, "last_updated": "2026-02-06T14:43:09"}
+{"id": 107, "name": "EcoBottle 107", "category": "BOOKS", "price": 167.6699981689453, "last_updated": "2026-02-06T14:43:11"}
+{"id": 108, "name": "SmartLight 108", "category": "BOOKS", "price": 465.32000732421875, "last_updated": "2026-02-06T14:43:13"}
+{"id": 24, "name": "UltraTab 24", "category": "BOOKS", "price": 394.3500061035156, "last_updated": "2026-02-06T14:43:15"}
+{"id": 3, "name": "ProHeads 3", "category": "APPAREL", "price": 379.2099914550781, "last_updated": "2026-02-06T14:43:17"}
