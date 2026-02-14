@@ -1,0 +1,6 @@
+.env
+.venv
+.ipynb_checkpoints
+.DS_Store
+secure-connect-cassandra.zip
+Cassandra_Assignment.pdf
